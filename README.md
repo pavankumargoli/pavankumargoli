@@ -1,7 +1,7 @@
 Hi, 👋  My name is Pavankumar Goli
 =====================================
 
-Data Scientist | Python | Machine Learning Engineer | Deep Learning | Artificial Intelligence (AI) | NLP | Computer Vision | OCR |
+GenerativeAI(GenAI) | Data Scientist | Python | Machine Learning Engineer | Deep Learning | Artificial Intelligence (AI) | NLP | Computer Vision | OCR |
 ------------------------------------
 
 * 📫  You can contact me at [Linkedin](https://www.linkedin.com/in/pavankumargoli/)
@@ -14,7 +14,7 @@ Python, Machine Learning, Deep Learning, Artificial Intelligence (AI), Natural L
   
 Data Preprocessing: NumPy, Pandas. 
 
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+Machine and Deep Learning Implementation Framework: Tensorflow, Scikit-Learn, PyTorch. 
 
 Natural Language Processing: NLTK, BERT. 
 
