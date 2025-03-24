@@ -6,7 +6,7 @@ GenerativeAI(GenAI) | Data Scientist | Python | Machine Learning Engineer | Deep
 
 * 📫  You can contact me at [Linkedin](https://www.linkedin.com/in/pavankumargoli/)
 
-High-performing Data Scientist with 11 years of experience in building Artificial Intelligence/Data Science solutions using Machine Learning, Deep Learning, Natural Language Processing (NLP), OCR, and Recommender Systems 
+High-performing Data Scientist with 13 years of experience in building Artificial Intelligence/Data Science solutions using Machine Learning, Deep Learning, Natural Language Processing (NLP), OCR, and Recommender Systems 
  
 ### Tools | Frameworks 
 
