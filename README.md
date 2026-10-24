@@ -1,35 +1,26 @@
-Hi, 👋  My name is Pavankumar Goli
-=====================================
+# Pavankumar Goli
 
-GenerativeAI(GenAI) | Data Scientist | Python | Machine Learning Engineer | Deep Learning | Artificial Intelligence (AI) | NLP | Computer Vision | OCR |
-------------------------------------
+### Senior Forward Deployed AI Engineer · Enterprise GenAI Systems
 
-* 📫  You can contact me at [Linkedin](https://www.linkedin.com/in/pavankumargoli/)
+I help enterprise teams turn ambiguous business problems into dependable AI products—from discovery and prototyping through production deployment, evaluation, and adoption.
 
-High-performing Data Scientist with 13 years of experience in building Artificial Intelligence/Data Science solutions using Machine Learning, Deep Learning, Natural Language Processing (NLP), OCR, and Recommender Systems 
- 
-### Tools | Frameworks 
+My focus is agentic AI, enterprise RAG, multimodal document intelligence, and the reliability practices that make LLM systems usable in regulated environments.
 
-Python, Machine Learning, Deep Learning, Artificial Intelligence (AI), Natural Language Processing, NLP, OCR, Recommender Systems, Data Analytics, SQL, VBA, Advanced Excel, Microsoft Azure, AWS, Abbyy FineReader (OCR Engine), and Tableau.
-  
-Data Preprocessing: NumPy, Pandas. 
+[Website](https://pavankumargoli.com) · [LinkedIn](https://www.linkedin.com/in/pavankumargoli/) · [Email](mailto:pavanproid@gmail.com)
 
-Machine and Deep Learning Implementation Framework: Tensorflow, Scikit-Learn, PyTorch. 
+## What I build
 
-Natural Language Processing: NLTK, BERT. 
+- **Agentic workflows** — multi-agent orchestration, tool use, structured outputs, validation loops, and human review
+- **Enterprise knowledge systems** — RAG, hybrid retrieval, grounded responses, evaluation, and observability
+- **Document intelligence** — OCR, multimodal extraction, deterministic validation, and workflow automation
+- **AI developer platforms** — architecture-aware assistance, engineering guardrails, and automated quality checks
 
-Data Visualization: Matplotlib, Tableau, Seaborn. 
+## Engineering approach
 
-Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
+I work at the boundary of business context and production engineering: clarify the decision to automate, ground the system in trusted data, measure output quality, and make its behavior observable.
 
-Integrated Development Environment: VS-Code, Jupyter-Notebook, PyCharm.
+**Core stack:** Python · FastAPI · LangChain · LangGraph · MCP · AWS Bedrock · OpenAI · Azure OpenAI · Pinecone · RAGAS · DeepEval · Docker · Kubernetes
 
-### Socials
+## Public work
 
-<p align="left"> <a href="https://github.com/pavankumargoli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/mynetwork/discovery-see-all/?usecase=PEOPLE_FOLLOWS&followMember=pavankumargoli" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-
-
-<!---
-pavankumargoli/pavankumargoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m building sanitized reference implementations and technical write-ups that demonstrate production patterns for agentic AI, RAG evaluation, and document intelligence.
