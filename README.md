@@ -21,6 +21,25 @@ I work at the boundary of business context and production engineering: clarify t
 
 **Core stack:** Python · FastAPI · LangChain · LangGraph · MCP · AWS Bedrock · OpenAI · Azure OpenAI · Pinecone · RAGAS · DeepEval · Docker · Kubernetes
 
-## Public work
+## Skills
 
-I’m building sanitized reference implementations and technical write-ups that demonstrate production patterns for agentic AI, RAG evaluation, and document intelligence.
+**AI & agents:** Python, LangChain, LangGraph, OpenAI Agents SDK, Google ADK, MCP, A2A, DSPy<br>
+**LLM platforms:** AWS Bedrock, OpenAI, Azure OpenAI, Anthropic Claude, Google Gemini<br>
+**Retrieval & evaluation:** Pinecone, ChromaDB, RAGAS, DeepEval, LangSmith<br>
+**Backend & cloud:** FastAPI, Docker, Kubernetes, AWS, Azure, GitHub Actions<br>
+**ML & data:** PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, SQL
+
+## How I work
+
+I specialize in the space between an enterprise’s business domain and its production AI systems: clarifying requirements, grounding models in trusted data, making behavior observable and evaluable, and enabling engineering teams to operate the result confidently.
+
+My experience spans automotive finance, insurance, telecom, healthcare, retail, and banking.
+
+---
+
+### Let’s connect
+
+I’m interested in building practical, high-trust AI systems that create measurable value for teams and customers.
+
+[Visit my website →](https://pavankumargoli.com)<br>
+[Connect on LinkedIn →](https://www.linkedin.com/in/pavankumargoli/)
