@@ -10,10 +10,10 @@ My focus is agentic AI, enterprise RAG, multimodal document intelligence, and th
 
 ## What I build
 
-- **Agentic workflows** — multi-agent orchestration, tool use, structured outputs, validation loops, and human review
-- **Enterprise knowledge systems** — RAG, hybrid retrieval, grounded responses, evaluation, and observability
-- **Document intelligence** — OCR, multimodal extraction, deterministic validation, and workflow automation
-- **AI developer platforms** — architecture-aware assistance, engineering guardrails, and automated quality checks
+- **Agentic workflows** - multi-agent orchestration, tool use, structured outputs, validation loops, and human review
+- **Enterprise knowledge systems** - RAG, hybrid retrieval, grounded responses, evaluation, and observability
+- **Document intelligence** - OCR, multimodal extraction, deterministic validation, and workflow automation
+- **AI developer platforms** - architecture-aware assistance, engineering guardrails, and automated quality checks
 
 ## Engineering approach
 
